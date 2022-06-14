@@ -1,0 +1,28 @@
+
+.bgimg{
+    background-image: url("./lib.jpg");
+    width: 200%;
+    height: 150%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+.logform{
+    color: rgba(226, 90, 11, 0.863);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 10;
+    padding-top: 10;
+    margin-top: 20%;
+    width: 600px;   
+    height: 350px; 
+  background-color: rgb(255, 240, 244); 
+  text-align: center;
+}
+.img-about
+{
+    background-image: url("./lib.jpg");
+    padding-left: 1px;    
+    width:1200px;
+    height:300px;
+    color: white;
+}

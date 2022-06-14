@@ -1,0 +1,11 @@
+.img-about
+{
+    background-image: url("./about.jpg");
+    padding-left: 1px;    
+    width:1200px;
+    height:300px;
+    color: white;
+}
+*{
+   background: url('./about.jpg');
+}

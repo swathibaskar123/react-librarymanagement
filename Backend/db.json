@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "rajesh",
+      "lastName": "H",
+      "email": "rajesh@gmail.com",
+      "password": "123456"
+    },
+    {
+      "firstName": "harry11111",
+      "lastName": "g",
+      "email": "harry@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "firstName": "harry11111",
+      "lastName": "g",
+      "email": "suresh@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "firstName": "salman2222",
+      "lastName": "salman2222",
+      "email": "salman@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "firstName": "salman2222",
+      "lastName": "salman2222",
+      "email": "salman@gmail.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "firstName": "asdfasdfasdf",
+      "lastName": "asdfadf",
+      "email": "adsfaf@gmail.com",
+      "password": "12345",
+      "id": 6
+    }
+  ],
+  "expense": [
+    {
+      "expenseName": "home purchase new",
+      "amount": 70000,
+      "paidBy": "Salman",
+      "date": "29/03/2022",
+      "id": 3
+    },
+    {
+      "expenseName": "home purchase",
+      "amount": 70000,
+      "paidBy": "Salman",
+      "date": "29/03/2022",
+      "id": 5
+    },
+    {
+      "expenseName": "rrr",
+      "amount": 70000,
+      "paidBy": "Salman",
+      "date": "29/03/2022",
+      "id": 6
+    }
+  ],
+  "library": [
+    {
+      "bookname": "Web Programming",
+      "bookdesc": "It is Programming language",
+      "bookauthor": "Henry",
+      "noofbooks": "3",
+      "id": 1
+    },
+    {
+      "bookname": "Python Programming",
+      "bookdesc": "It is Programming language",
+      "bookauthor": "Mark",
+      "noofbooks": "7",
+      "id": 2
+    },
+    {
+      "bookname": "Javascript",
+      "bookdesc": "It is Programming language",
+      "bookauthor": "Adam",
+      "noofbooks": "4",
+      "id": 3
+    },
+    {
+      "bookname": "Web Programming",
+      "bookdesc": "fsadzgz",
+      "bookauthor": "Henry",
+      "noofbooks": "7",
+      "id": 5
+    }
+  ]
+}
